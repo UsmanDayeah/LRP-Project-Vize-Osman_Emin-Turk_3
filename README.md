@@ -1,1 +1,1 @@
-Projedeki arayüz değiştirilip admin girişi yapılıbilecek hale getirildi. ayrıca atanan öğrencinin giişide sağlandı
+HDMI Girişi Var ve Veyon Cloud Var kullanılabilir hale getirildi, boş veri girilmesi engllendi,atamalarda öğrenci düzenleme aktif hale getirildi, atanan öğrencilerin giriş yapabilmesi mümkün kılınırken atamaları silinme durumunda giriş yapmaları engellendi 
